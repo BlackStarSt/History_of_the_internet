@@ -64,7 +64,6 @@ body {
 
 .principal_titulo {
     font-size: 54px;
-    text-decoration: underline red;
 }
 
 .principal_texto {
@@ -73,5 +72,16 @@ body {
 }
 
 .principal_img {
-    border: 2px red solid;
+    border: 1px red solid;
+}
+
+.rodape {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding: 15px;
+}
+
+.rodape_texto {
+    font-size: 16px;
 }
