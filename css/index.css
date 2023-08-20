@@ -74,14 +74,3 @@ body {
 .principal_img {
     border: 1px red solid;
 }
-
-.rodape {
-    align-items: center;
-    display: flex;
-    flex-direction: column;
-    padding: 15px;
-}
-
-.rodape_texto {
-    font-size: 16px;
-}
